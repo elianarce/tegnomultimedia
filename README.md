@@ -1,1 +1,1 @@
-# tegnomultimedia
+# tecnomultimedia
